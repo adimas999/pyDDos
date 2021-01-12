@@ -22,7 +22,7 @@ os.system("figlet DDos Attack")
 print
 print "Author   : MrDevils"
 print "github   : https://github.com/adimas999"
-print "Instagram   : "
+print "Instagram   : https://www.instagram.com/adimas_shadoet"
 print
 ip = raw_input("IP Target : ")
 port = input("Port       : ")
