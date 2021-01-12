@@ -42,6 +42,7 @@ Install the dependencies:
 > pkg upgrade
 > pkg install python -y
 > pkg install python2
+> pkg install figlet
 ```
 
 ### Usage
